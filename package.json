@@ -1,0 +1,23 @@
+{
+  "name": "project-genre-api",
+  "version": "1.0.0",
+  "description": "I'LL BE BUILDING THE BACKEND OF VIDLY APPLICATION \r THE VIDLY IS IMMAGINARY APP  RENTING  OUT FOR MOVIES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimpuhwe/project-genre-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rimpuhwe/project-genre-API/issues"
+  },
+  "homepage": "https://github.com/rimpuhwe/project-genre-API#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
